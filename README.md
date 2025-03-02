@@ -1,4 +1,4 @@
-# Week2
+SOLAR POWER PREDICTION
 This project focuses on predicting solar power output by building a machine learning model using linear regression. The model estimates solar power generation based on key environmental and operational factors such as temperature, sunlight intensity, and panel orientation.
 
 1. Introduction
